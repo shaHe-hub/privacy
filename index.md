@@ -1,7 +1,5 @@
 Privacy Policy
 
-Effective date: August 1, 2025
-
 Last update: August 1, 2025
 
 Brief account
