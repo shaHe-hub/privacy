@@ -1,37 +1,37 @@
-Privacy Policy
+隐私政策
 
-Last update: August 1, 2025
+最后更新日期：2025年8月1日
 
-Brief account
+概述
 
-TidyGo (hereinafter referred to as "this application") attaches great importance to the protection of user privacy. This privacy policy details how we collect, use, store and protect your personal information. By using this application, you agree to the terms of this privacy policy.
+TidyGo（以下简称“本应用”）高度重视用户隐私的保护。本隐私政策详细阐述了我们如何收集、使用、存储和保护您的个人信息。请您在使用本应用前仔细阅读本政策；一旦使用本应用，即表示您同意本政策所述内容。
 
-Note: This application may contain links to other websites or products, and we are not responsible for the privacy policies and/or practices of other companies. When linking to another company, you should read the company's privacy policy.
+请注意：本应用可能包含指向其他网站或产品的链接。对于其他公司的隐私政策及做法，我们不承担责任。当您访问第三方链接时，请务必阅读该公司的隐私政策。
 
-What information do we collect?
+我们收集的信息
 
-All information collected has been aggregated and anonymized to protect individual users. When using our products, it automatically collects data about device type, operating system and user experience, and is only used to optimize and improve the usability of our products.
+在使用本产品过程中，会自动收集设备类型、操作系统及用户体验相关数据，这些信息仅用于优化产品功能与提升服务体验。
 
-The information we don't collect
+我们不会收集的信息
 
-We will not collect any personal information. We can't access the content you created in TidyGo. Your work is your message.
+我们不收集任何可识别个人身份的信息，也无法访问您在TidyGo中创建的任何内容。您在本应用中的所有数据均归您自己所有。
 
-How should we deal with this information?
+信息处理方式
 
-The information collected is only used to develop and improve the product experience and improve technical support. No personal information will be collected, and all information is anonymous and aggregated before use. We neither rent nor sell any information we collect.
+所收集的信息仅用于产品开发、功能改进和技术支持优化。所有数据在使用前均进行匿名与汇总处理，我们不会出租、出售或向任何第三方提供所收集的信息。
 
-Data storage and security
+数据存储与安全
 
-All data is mainly stored on your device. Use iOS system encryption technology to protect local data. Local data will be deleted when the application is uninstalled. Secure iCloud synchronization between devices through Apple iCloud, following Apple iCloud privacy and security standards, you can turn off iCloud synchronization in the settings at any time.
+您的数据主要存储于本地设备，并通过iOS系统加密技术进行保护。当您卸载本应用时，相关本地数据将被清除。如您启用Apple iCloud同步功能，数据将在设备间通过iCloud安全同步，该过程遵循Apple iCloud的隐私与安全标准。您可随时在系统设置中关闭iCloud同步。
 
-E-mail communication
+电子邮件通讯
 
-If we receive your email or communicate through social networks, we will use the information to provide you with the best service through the channels you contact us.
+如您通过电子邮件或社交网络与我们联系，我们将通过原沟通渠道使用相关信息，以便为您提供更好的服务。
 
-Changes to this privacy policy
+隐私政策的变更
 
-We may modify this privacy policy from time to time. The use of the information we collect now is subject to the privacy policy that takes effect when such information is used. If we change the way we use the information, we will update this page. When users continue to use the product or website after the first release of such changes, they are subject to any changes in the privacy policy.
+我们可能不定期修订本隐私政策。信息的处理将遵循信息收集时生效的政策版本。若信息使用方式发生变更，我们将及时更新本页说明。若您在政策变更公布后继续使用本产品或相关网站，即视为接受修订后的隐私政策。
 
-Problems or concerns
+问题与反馈
 
-If you have any questions or concerns about privacy, please send a detailed message to zjicue@live.com. We will do our best to solve your concerns.
+如您对隐私政策存在任何疑问或顾虑，请将详细内容发送至 zjicue@live.com，我们将尽力解决您的问题。
